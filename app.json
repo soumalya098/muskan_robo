@@ -1,9 +1,9 @@
 {
-   "name": "𝗦𝙴𝙽𝙾𝚁𝙸𝚃𝙰 ✘ 𝗥𝙾𝙱𝙾",
+   "name": "ALEXA OP",
    "description": "A versatile Telegram Group Management Bot.",
-   "logo": "https://telegra.ph/file/86d8eddb9264ed67505b0.jpg",
+   "logo": "https://te.legra.ph/file/112812d607b672c691aef.jpg",
    "keywords": ["telegram", "modular", "group", "management", "Miko"],
-   "repository": "https://github.com/SHIVANSH474/SHUKLA-ROBOT",
+   "repository": "https://github.com/Shivasengar12/SHUKLA-ROBOT",
    "stack": "heroku-22",
    "addons": [
       {
