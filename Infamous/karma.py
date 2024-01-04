@@ -10,16 +10,16 @@ from Mikobot import BOT_USERNAME, OWNER_ID, SUPPORT_CHAT
 
 # <============================================== CONSTANTS =========================================================>
 START_IMG = [
-    "https://telegra.ph/file/86d8eddb9264ed67505b0.jpg",
-    "https://te.legra.ph/file/49059d553efa874c70cb3.jpg",
-    "https://telegra.ph/file/86d8eddb9264ed67505b0.jpg",
-    "https://te.legra.ph/file/49059d553efa874c70cb3.jpg",
-    "https://telegra.ph/file/86d8eddb9264ed67505b0.jpg",
-    "https://telegra.ph/file/86d8eddb9264ed67505b0.jpg",
-    "https://te.legra.ph/file/49059d553efa874c70cb3.jpg",
+    "https://te.legra.ph/file/f4897ce069cad67e4c5a1.jpg",
+    "https://te.legra.ph/file/f93e18d070943fd6b96bb.jpg",
+    "https://te.legra.ph/file/f28b0bc53ea65193ae927.jpg",
+    "https://te.legra.ph/file/cd2b255328d60fcbf1e58.jpg",
+    "https://te.legra.ph/file/462449a4c5b0d3d7925bf.jpg",
+    "https://te.legra.ph/file/3c60bbe6cb886f58cdc59.jpg",
+    "https://te.legra.ph/file/3a752ce722e8c431a6bfb.jpg",
 ]
 
-HEY_IMG = "https://te.legra.ph/file/49059d553efa874c70cb3.jpg"
+HEY_IMG = "https://te.legra.ph/file/8c4b7ef12ee1445ad3276.jpg"
 
 ALIVE_ANIMATION = [
     "https://telegra.ph//file/f9e2b9cdd9324fc39970a.mp4",
@@ -33,22 +33,22 @@ ALIVE_ANIMATION = [
 ]
 
 BAN_GIFS = [
-    "https://telegra.ph//file/85ac1ab12c833afa1a5dd.mp4",
+    "https://te.legra.ph/file/53d9268e20eb6ae2d4168.mp4",
 ]
 
 
 KICK_GIFS = [
-    "https://telegra.ph//file/79a6c527e6e6d530bcdc8.mp4",
+    "https://te.legra.ph/file/2eca660c64dd64e2400e7.mp4",
 ]
 
 
 MUTE_GIFS = [
-    "https://telegra.ph//file/b4faf6e390d72d286abdf.mp4",
+    "https://te.legra.ph/file/845e4a92f5e11a72e2271.mp4",
 ]
 
 FIRST_PART_TEXT = "✨ *ʜᴇʟʟᴏ* `{}` . . ."
 
-PM_START_TEXT = "✨ *ɪ ᴀᴍ ˹ 𝗦𝙴𝙽𝙾𝚁𝙸𝚃𝙰 ✘ 𝗥𝙾𝙱𝙾 ˼, ᴀ ɢᴇɴꜱʜɪɴ ɪᴍᴘᴀᴄᴛ ᴛʜᴇᴍᴇᴅ ʀᴏʙᴏᴛ ᴡʜɪᴄʜ ᴄᴀɴ ʜᴇʟᴘ ʏᴏᴜ ᴛᴏ ᴍᴀɴᴀɢᴇ ᴀɴᴅ ꜱᴇᴄᴜʀᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴡɪᴛʜ ʜᴜɢᴇ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ*"
+PM_START_TEXT = "✨ *ɪ ᴀᴍ ˹ 𝐀ʟᴇxᴀ ✘ 𝗥𝙾𝙱𝙾 ˼, ᴀ ɢᴇɴꜱʜɪɴ ɪᴍᴘᴀᴄᴛ ᴛʜᴇᴍᴇᴅ ʀᴏʙᴏᴛ ᴡʜɪᴄʜ ᴄᴀɴ ʜᴇʟᴘ ʏᴏᴜ ᴛᴏ ᴍᴀɴᴀɢᴇ ᴀɴᴅ ꜱᴇᴄᴜʀᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴡɪᴛʜ ʜᴜɢᴇ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ*"
 
 START_BTN = [
     [
@@ -85,8 +85,8 @@ GROUP_START_BTN = [
 
 ALIVE_BTN = [
     [
-        ib(text="UPDATES", url="https://t.me/ABOUT_SHIVANSHOP"),
-        ib(text="SUPPORT", url="https://t.me/mastiwithfriendsx"),
+        ib(text="UPDATES", url="https://t.me/about_x_alexa"),
+        ib(text="SUPPORT", url="https://t.me/Alexa_X_Support"),
     ],
     [
         ib(
@@ -97,7 +97,7 @@ ALIVE_BTN = [
 ]
 
 HELP_STRINGS = """
-🫧 *˹ 𝗦𝙴𝙽𝙾𝚁𝙸𝚃𝙰 ✘ 𝗥𝙾𝙱𝙾 ˼* 🫧
+🫧 *˹ 𝐀ʟᴇxᴀ ✘ 𝗥𝙾𝙱𝙾 ˼* 🫧
 
 ☉ *Here, you will find a list of all the available commands.*
 
