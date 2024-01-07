@@ -154,14 +154,14 @@ async def list_all_chats(update: Update, context: ContextTypes.DEFAULT_TYPE):
 __help__ = """
 ➠ *Admins only command*:
 
-» /chatbot: shows chatbot panel.
+»  : 𝐉𝐀𝐀𝐎 [𝐒𝐇𝐈𝐕𝐀](https://t.me/Alexa_X_Support) 𝐏𝐀𝐏𝐀 𝐒𝐄 𝐌𝐈𝐋 𝐋𝐎 
 """
 
-__mod_name__ = "CHATBOT"
+__mod_name__ = "DEVID-STRANGER"
 
 
 # <================================================ HANDLER =======================================================>
-CHATBOTK_HANDLER = CommandHandler("chatbot", kuki, block=False)
+CHATBOTK_HANDLER = CommandHandler("stranger", kuki, block=False)
 ADD_CHAT_HANDLER = CallbackQueryHandler(kukiadd, pattern=r"add_chat", block=False)
 RM_CHAT_HANDLER = CallbackQueryHandler(kukirm, pattern=r"rm_chat", block=False)
 CHATBOT_HANDLER = MessageHandler(
