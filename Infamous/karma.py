@@ -10,13 +10,13 @@ from Mikobot import BOT_USERNAME, OWNER_ID, SUPPORT_CHAT
 
 # <============================================== CONSTANTS =========================================================>
 START_IMG = [
-    "https://te.legra.ph/file/f4897ce069cad67e4c5a1.jpg",
-    "https://te.legra.ph/file/f93e18d070943fd6b96bb.jpg",
-    "https://te.legra.ph/file/f28b0bc53ea65193ae927.jpg",
-    "https://te.legra.ph/file/cd2b255328d60fcbf1e58.jpg",
-    "https://te.legra.ph/file/462449a4c5b0d3d7925bf.jpg",
-    "https://te.legra.ph/file/3c60bbe6cb886f58cdc59.jpg",
-    "https://te.legra.ph/file/3a752ce722e8c431a6bfb.jpg",
+    "https://te.legra.ph/file/f482b87a141d22eaf0e4b.jpg",
+    "https://te.legra.ph/file/abf6c760e30badc7cc260.jpg",
+    "https://te.legra.ph/file/e4023c057e87ba5f2fe37.jpg",
+    "https://te.legra.ph/file/54bab6b6f15d2bf194191.jpg",
+    "https://te.legra.ph/file/abf6c760e30badc7cc260.jpg",
+    "https://te.legra.ph/file/28b7361b286bad233a100.jpg",
+    "https://te.legra.ph/file/e4023c057e87ba5f2fe37.jpg",
 ]
 
 HEY_IMG = "https://te.legra.ph/file/8c4b7ef12ee1445ad3276.jpg"
@@ -33,7 +33,7 @@ ALIVE_ANIMATION = [
 ]
 
 BAN_GIFS = [
-    "https://te.legra.ph/file/53d9268e20eb6ae2d4168.mp4",
+    "https://te.legra.ph/file/ea0f7581cfd3c09645fca.mp4",
 ]
 
 
@@ -43,7 +43,7 @@ KICK_GIFS = [
 
 
 MUTE_GIFS = [
-    "https://te.legra.ph/file/845e4a92f5e11a72e2271.mp4",
+    "https://te.legra.ph/file/ee2a903707ed78a37f70a.mp4",
 ]
 
 FIRST_PART_TEXT = "✨ *ʜᴇʟʟᴏ* `{}` . . ."
