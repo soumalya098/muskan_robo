@@ -388,6 +388,7 @@ async def help_button(update: Update, context: ContextTypes.DEFAULT_TYPE):
     except BadRequest:
         pass
 
+print("stranger op\n Xytra also op")
 
 async def stats_back(update: Update, context: ContextTypes.DEFAULT_TYPE):
     query = update.callback_query
@@ -768,7 +769,7 @@ def main():
 
     function(CommandHandler("settings", get_settings))
     function(CallbackQueryHandler(settings_button, pattern=r"stngs_"))
-    function(CommandHandler("repo", repo))
+    
 
     function(CallbackQueryHandler(Miko_about_callback, pattern=r"Miko_"))
     function(CallbackQueryHandler(gitsource_callback, pattern=r"git_source"))
@@ -779,7 +780,7 @@ def main():
 
     dispatcher.add_error_handler(error_callback)
 
-    LOGGER.info("Mikobot is starting >> Using long polling.")
+    LOGGER.info("XYTRA is starting >> Using long polling.")
     dispatcher.run_polling(timeout=15, drop_pending_updates=True)
 
 
