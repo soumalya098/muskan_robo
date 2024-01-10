@@ -99,7 +99,7 @@ ALIVE_BTN = [
 HELP_STRINGS = """
 🫧 *˹ 𝐀ʟᴇxᴀ ✘ 𝗥𝙾𝙱𝙾 ˼* 🫧
 
-☉ *Here, you will find a list of all the available commands.*
+☉ * ʜ⚡ᴇʏᴀ ᴀʟʟ ᴀʟᴇxᴀ ᴄᴏᴍᴍᴀɴᴅ ʟɪsᴛ ʜᴇʀᴇ ʀᴇᴀᴅ ᴄᴀʀᴇғᴜʟʟʏ ⚡.*
 
 ᴀʟʟ ᴄᴏᴍᴍᴀɴᴅs ᴄᴀɴ ʙᴇ ᴜsᴇᴅ ᴡɪᴛʜ : /
 """
