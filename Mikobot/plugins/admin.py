@@ -1062,7 +1062,7 @@ async def admin_callback(update: Update, context: ContextTypes.DEFAULT_TYPE):
 # <=================================================== HELP ====================================================>
 
 
-__help__ = """
+__ʜᴇʟᴘ__ = """
 » /adminlist: List of admins in the chat.
 
 ➠ *Admins only:*
