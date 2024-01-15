@@ -46,40 +46,40 @@ MUTE_GIFS = [
     "https://te.legra.ph/file/ee2a903707ed78a37f70a.mp4",
 ]
 
-FIRST_PART_TEXT = "✨ *ʜᴇʟʟᴏ* `{}` . . ."
+FIRST_PART_TEXT = "✨ *ʙᴜᴅᴅʏ🪄✨* `{}` . . ."
 
 PM_START_TEXT = "✨ *ɪ ᴀᴍ ˹ 𝐀ʟᴇxᴀ ✘ 𝗥𝙾𝙱𝙾 ˼, ᴀ ɢᴇɴꜱʜɪɴ ɪᴍᴘᴀᴄᴛ ᴛʜᴇᴍᴇᴅ ʀᴏʙᴏᴛ ᴡʜɪᴄʜ ᴄᴀɴ ʜᴇʟᴘ ʏᴏᴜ ᴛᴏ ᴍᴀɴᴀɢᴇ ᴀɴᴅ ꜱᴇᴄᴜʀᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴡɪᴛʜ ʜᴜɢᴇ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ*"
 
 START_BTN = [
     [
         InlineKeyboardButton(
-            text="⇦ ADD ME ⇨",
+            text="✨sᴜᴍᴍᴏɴ ᴍᴇ✨",
             url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
         ),
     ],
     [
-        InlineKeyboardButton(text="HELP", callback_data="help_back"),
+        InlineKeyboardButton(text="🪄ᴄᴏᴍᴍᴀɴᴅs🪄", callback_data="help_back"),
     ],
     [
-        InlineKeyboardButton(text="DETAILS", callback_data="Miko_"),
-        InlineKeyboardButton(text="AI", callback_data="ai_handler"),
-        InlineKeyboardButton(text="SOURCE", callback_data="git_source"),
+        InlineKeyboardButton(text="▫️ᴀʙᴏᴜᴛ▫️", callback_data="Miko_"),
+        InlineKeyboardButton(text="🔹ᴀɪ ʀᴏʙᴏ🔹", callback_data="ai_handler"),
+        InlineKeyboardButton(text="⚡sᴛʀᴀɴɢᴇʀ⚡", callback_data="git_source"),
     ],
     [
-        InlineKeyboardButton(text="CREATOR", url=f"tg://user?id={OWNER_ID}"),
+        InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇs", url=f"https://t.me/strangers_bots"),
     ],
 ]
 
 GROUP_START_BTN = [
     [
         InlineKeyboardButton(
-            text="⇦ ADD ME ⇨",
+            text="ᴀᴅᴅ ᴍᴇ ᴅᴀʀʟᴏ",
             url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
         ),
     ],
     [
-        InlineKeyboardButton(text="SUPPORT", url=f"https://t.me/{SUPPORT_CHAT}"),
-        InlineKeyboardButton(text="CREATOR", url=f"tg://user?id={OWNER_ID}"),
+        InlineKeyboardButton(text="✨ʜᴏᴜsᴇ✨", url=f"https://t.me/{SUPPORT_CHAT}"),
+        InlineKeyboardButton(text="⚡ᴅᴇᴠ⚡", url=f"tg://user?id={OWNER_ID}"),
     ],
 ]
 
