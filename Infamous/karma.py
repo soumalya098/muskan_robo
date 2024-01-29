@@ -63,7 +63,7 @@ START_BTN = [
     [
         InlineKeyboardButton(text="▫️ᴀʙᴏᴜᴛ▫️", callback_data="Miko_"),
         InlineKeyboardButton(text="🔹ᴀɪ ʀᴏʙᴏ🔹", callback_data="ai_handler"),
-        InlineKeyboardButton(text="⚡sᴛʀᴀɴɢᴇʀ⚡", callback_data="git_source"),
+        InlineKeyboardButton(text="⚡REPO⚡", callback_data="git_source"),
     ],
     [
         InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇs", url=f"https://t.me/Muskan_music_2_bot"),
@@ -99,7 +99,7 @@ ALIVE_BTN = [
 HELP_STRINGS = """
 🫧 *Muskan Robo* 🫧
 
-☉ * ʜ⚡ᴇʏᴀ ᴀʟʟ ᴀʟᴇxᴀ ᴄᴏᴍᴍᴀɴᴅ ʟɪsᴛ ʜᴇʀᴇ ʀᴇᴀᴅ ᴄᴀʀᴇғᴜʟʟʏ ⚡.*
+☉ * ʜ⚡ᴇʏᴀ ᴀʟʟ MUSKAN ROBO ᴄᴏᴍᴍᴀɴᴅ ʟɪsᴛ ʜᴇʀᴇ ʀᴇᴀᴅ ᴄᴀʀᴇғᴜʟʟʏ ⚡.*
 
 ᴀʟʟ ᴄᴏᴍᴍᴀɴᴅs ᴄᴀɴ ʙᴇ ᴜsᴇᴅ ᴡɪᴛʜ : /
 """
